@@ -1,4 +1,4 @@
-#eletricity bill
+#eletricitybillprediction
 
 id=int (input("enter the user id:"))
 name=input("enter the name:")
@@ -22,4 +22,5 @@ else:
 print("user id:",id)
 print("user name:",name)
 print("unit consumed:",unit)
-print("bills:",bil
+print("bills:",bill)
+#codebymugundhan
